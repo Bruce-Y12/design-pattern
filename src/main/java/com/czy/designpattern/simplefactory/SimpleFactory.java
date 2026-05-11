@@ -1,4 +1,4 @@
-package com.czy.designpattern;
+package com.czy.designpattern.simplefactory;
 
 /**
  * @Author:yzc
