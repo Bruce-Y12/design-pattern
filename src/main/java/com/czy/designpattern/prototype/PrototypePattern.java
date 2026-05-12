@@ -3,7 +3,7 @@ package com.czy.designpattern.prototype;
  * 原型模式
  */
 public class PrototypePattern {
-    public static void main(String argsp[]){
+    public static void main(String[] args){
         Product product1 = new Product(1, 10.00);
         System.out.println(product1.getId() + " " + product1.getPrice());
 
